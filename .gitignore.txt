@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python logs
+*.log
+
+# VS Code
+.vscode/
