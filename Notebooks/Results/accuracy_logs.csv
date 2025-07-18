@@ -2,3 +2,4 @@ baseline_fis,0.9,3,0.33,0.1,Simple 3-rule baseline fuzzy system
 baseline_fis,0.7133,3,0.33,0.1,Simple 3-rule baseline fuzzy system
 baseline_fis,0.7133,3,0.33,0.1,Simple 3-rule baseline fuzzy system
 baseline_fis,0.7133,3,0.5,0.1,Data-driven MF baseline with 3 rules
+ga_optimized_fis,0.96,3,0.572,53.86,GA optimized fuzzy system in 20 generations
